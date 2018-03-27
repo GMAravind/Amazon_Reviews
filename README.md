@@ -34,7 +34,7 @@ Compute the sentiment and subjectivity for the segregated sentences of each revi
 With Sentiment and subjectivity of the topics as features for a review and helpfulness as the target variable. Apply regression to construct a model to predict helpfulness of a review
 
 #  Conclusion
-Latent Topics - Charge/Battery and Case/Protection
+Latent Topics - Charge/Battery and Case/Protection.
 It is found that reviews are found to be helpful if reviews had a negative sentiment about the product in both the topics.
 
 
